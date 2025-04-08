@@ -6,3 +6,4 @@ More to follow soon!
 Im adding a line for my Git tutorial!\
 This is to check some repository stuff\
 Added a new line for 'push branch to github'\
+Trying a new way to stage and commit\
