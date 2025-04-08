@@ -1,9 +1,20 @@
-# Hello, World!
+# Markdown Practice!
 
-This is the readme for my HTML and GIT tutorials\
-More to follow soon!
+## What I've covered so far: 
 
-Im adding a line for my Git tutorial!\
-This is to check some repository stuff\
-Added a new line for 'push branch to github'\
-Trying a new way to stage and commit\
+1. **Learning how to use HTML:**
+ * Opening and closing brackets
+ - Values 
+ - Tables and Shapes
+2. **CSS:**
+ - How to link sheets 
+ - Adding attributes and values
+3. **Git:**
+ - Initialising Git repository
+ - Adding, staging & Commiting
+ - Pushing and pulling
+4. **GitHub**
+ - Setting up account
+ - Pulling repository from local
+ - Pulling remote repository 
+ - Merging conflicts
